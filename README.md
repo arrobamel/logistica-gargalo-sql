@@ -46,6 +46,7 @@ GROUP BY mes;
 - Recomendação: Troca de rota + renegociação de SLA
 - Impacto: -70% do gargalo
 
+
 ### 👀 Olha como ficou no Power BI também
 
 Dashboard validando os 4.982 pedidos e o gargalo da Logística Sul.
