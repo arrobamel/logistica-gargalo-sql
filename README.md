@@ -1,4 +1,4 @@
-# 🚚 Solucionando Gargalo Logístico com SQL - 4.982 Pedidos
+# 🚚 Gargalo Logístico Resolvido: 70% de Impacto com SQL
 
 > **Contexto fictício:** Empresa Logística Ltda com SLA estourado, faturamento e estoque travados.
 
