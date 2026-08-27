@@ -23,15 +23,14 @@ ORDER BY total_atrasos DESC;
 
 > Insight: Risco concentrado. Só trocar rota da Sul já reduz 70% do gargalo.
 
-### 📅 QUERY 2: É recorrente?
+     ### 📅 QUERY 2: É recorrente?
 
 ```sql
-SELECT strftime('%m/%Y', data_pedido) as mes, COUNT(*) as atrasos
-FROM "Pedidos"
-WHERE status = 'atrasado' 
-AND data_pedido BETWEEN '2026-01-01' AND '2026-03-31'
-GROUP BY mes;
-```
+     SELECT substr(data_pedido, 4, 7) as mes_ano, COUNT(*) as atrasos
+     FROM "Pedidos"
+     WHERE status = 'atrasado'
+     GROUP BY mes_ano;
+
 
 - Prova de recorrência Jan-Mar/2026:**
 <img width="897" height="566" alt="2" src="https://github.com/user-attachments/assets/b216a973-a49e-4ffd-a103-dbc77242f907" />
