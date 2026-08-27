@@ -46,6 +46,16 @@ GROUP BY mes;
 - Recomendação: Troca de rota + renegociação de SLA
 - Impacto: -70% do gargalo
 
+### 👀 Olha como ficou no Power BI também
+
+Dashboard validando os 4.982 pedidos e o gargalo da Logística Sul.
+
+<img width="902" height="506" alt="gargalo_logistico_" src="https://github.com/user-attachments/assets/0fc3f91b-eb51-4d65-a556-a6f8afcafb6a" />
+
+
+> Visualização interativa do gargalo: 69,4% concentrado em 1 fornecedor.
+
+
 ### 📁 Arquivos
 - `base_logistica_4982_pedidos.db`
 - `prints/` com as evidências
