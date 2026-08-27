@@ -16,7 +16,7 @@ GROUP BY fornecedor
 ORDER BY total_atrasos DESC;
 ```
 
- - Prova do gargalo (41ms nos 4.982):**
+ - Gargalo na Logística Sul (41ms nos 4.982):**
 <img width="889" height="566" alt="1" src="https://github.com/user-attachments/assets/a88e2d00-c262-42af-8964-150e9524f650" />
 
 
