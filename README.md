@@ -17,7 +17,8 @@ ORDER BY total_atrasos DESC;
 ```
 
  - Prova do gargalo (41ms nos 4.982):**
-(prints/print1_gargalo.png)
+<img width="889" height="566" alt="1" src="https://github.com/user-attachments/assets/61155fbe-0b26-44b7-9c5e-90279396b65f" />
+
 
 > Insight: Risco concentrado. Só trocar rota da Sul já reduz 70% do gargalo.
 
@@ -32,7 +33,7 @@ GROUP BY mes;
 ```
 
 - Prova de recorrência Jan-Mar/2026:**
-(prints/print2_recorrencia.png)
+<img width="897" height="566" alt="2" src="https://github.com/user-attachments/assets/d3daa740-bcf5-424a-bac2-7a6fcd2ca246" />
 
 > Recorrência de ~320 atrasos/mês. Não é pico, é processo.
 
