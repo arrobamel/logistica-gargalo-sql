@@ -4,7 +4,6 @@
 ![IMPACTO](https://img.shields.io/badge/Impacto-70%25-orange?style=for-the-badge)
 ![SLA](https://img.shields.io/badge/SLA-Recuperado-brightgreen?style=for-the-badge)
 
-# 🚚 Gargalo Logístico Resolvido: 70% de Impacto com SQL
 
 # 🚚 Gargalo Logístico Resolvido: 70% de Impacto com SQL
 
