@@ -1,3 +1,9 @@
+[SQL](https://img.shields.io/badge/SQL-Avançado-blue?style=for-the-badge)
+[MYSQL](https://img.shields.io/badge/MySQL-4.982_Pedidos-4479A1?style=for-the-badge)
+[ATRASO](https://img.shields.io/badge/Atraso-1.749_Pedidos-red?style=for-the-badge)
+[IMPACTO](https://img.shields.io/badge/Impacto-70%25-orange?style=for-the-badge)
+[SLA](https://img.shields.io/badge/SLA-Recuperado-brightgreen?style=for-the-badge)
+
 # 🚚 Gargalo Logístico Resolvido: 70% de Impacto com SQL
 
 > **Contexto fictício:** Empresa Logística Ltda com SLA estourado, faturamento e estoque travados.
